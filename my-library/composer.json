@@ -1,0 +1,13 @@
+{
+    "name": "abdul/my-library",
+    "description": "Library sederhana untuk CodeIgniter 4",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abdul\\MyLibrary\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
